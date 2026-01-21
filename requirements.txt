@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+openpyxl
+xlrd
+xlsxwriter
+requests
+python-dateutil
